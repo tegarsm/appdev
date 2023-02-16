@@ -5,8 +5,6 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.http.GET
 
 // objek antar layanan
-
-
 /**
  * pada bagian ini adalah Layanan retrofit untuk mengambil daftar putar devbyte.
  */
